@@ -1,5 +1,5 @@
 streamlit
-tflite-runtime==2.5.0
 pandas
 numpy
 scikit-learn
+PIL
